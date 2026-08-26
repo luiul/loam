@@ -1,4 +1,10 @@
-# loam
+# loam (archived — moved into dashkit)
+
+> **This repo is archived.** `loam` was merged, with history, into
+> [`github.com/luiul/dashkit`](https://github.com/luiul/dashkit) as the
+> `loam` subpackage (`github.com/luiul/dashkit/loam`), alongside `trellis`
+> and `mycelium`. Use that repo going forward; this one no longer receives
+> changes.
 
 A tiny Go library for coloring and highlighting rows in a
 [bubbles/table](https://github.com/charmbracelet/bubbles) view by
